@@ -58,7 +58,7 @@ def decimal_to_base(d, base, symbols = None):
 
     return ''.join(res[::-1])
 
-def base_change(val, ibase, fbase, isymbols = None, fsymbols = None):
+def change_base(val, ibase, fbase, isymbols = None, fsymbols = None):
     ''' Converts the string 'val' from current base = 'ibase' to a different base 'fbase'. Base 'ibase' has symbol-set 'isymbols' list to represent symbols and base
     'fbase' uses 'fsymbols' list to represent symbols '''
 
