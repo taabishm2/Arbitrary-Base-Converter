@@ -1,8 +1,6 @@
 #Arbitrary Base to Arbitrary Base Converter
 
-* *Allows the conversion of a value in a given `base(a)`
-to the corresponding value in some other `base(b)`. The symbols used
-in both the bases can be provided by the user.* 
+*Allows the conversion of a value in a given `base(a)` to the corresponding value in some other `base(b)`. The symbols used in both the bases can be provided by the user.* 
 
 ###Description:
 A value from a given set with `base = a` is converted to the 
